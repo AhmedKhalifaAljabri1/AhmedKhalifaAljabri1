@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedKhalifaAljabri1
 - 👀 I’m interested in STEM
 - 🌱 I’m currently learning STEM
-- 💞️ I’m looking to collaborate on STEM
+- 💞️ I’m looking to collaborate on HummerBOT450
 - 📫 How to reach me a.aljabri0512@education.qa
 
 <!---
